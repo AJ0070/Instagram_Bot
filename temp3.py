@@ -15,7 +15,7 @@ cl = Client(
 cl.request_timeout = 60  # Set the timeout to 120 seconds
 
 # Login to your Instagram account
-cl.login("petcu.re", "Jashmann123@")
+cl.login("", "")
 
 # Set the folder path containing the reels
 folder_path = r"D:\RedditVideoMakerBot\results\confession"

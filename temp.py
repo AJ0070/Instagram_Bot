@@ -12,7 +12,7 @@ def main():
     bot = Bot()
 
     try:
-        bot.login(username="petcu.re", password="Jashmann123@")
+        bot.login(username="", password="")
     except Exception as e:
         print(f"Failed to log in: {e}")
         return
